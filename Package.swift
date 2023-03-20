@@ -3,9 +3,9 @@
 
 import PackageDescription
 
-let pkgName = "KontoCloudSDK"
-let url = "https://raw.githubusercontent.com/aahsanali/SPayOnline/frameworks/KontoCloudSDK.xcframework.zip"
-let checkSum = "28bf2e1302ecd130c8704a56652845e7c7fb44519280d392c0f8c7e4464a4921"
+let pkgName = "KontoCloudSDKFramework"
+let url = "https://raw.githubusercontent.com/aahsanali/SPayOnline/frameworks/kc/1.0.0/KontoCloudSDKFramework.xcframework.zip"
+let checkSum = "156dc39959dbec6721352ea2dba55efa52585321260cae562b70309c6faf1433"
 
 let package = Package(
     name: pkgName,
